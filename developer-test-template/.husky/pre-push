@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-cd developer-test-template
-pnpm run build
